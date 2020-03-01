@@ -1,0 +1,71 @@
+body {
+	padding:0;
+	margin:0;
+	font-size:0;
+}
+
+h1 {
+	margin:0;
+	font-size:50px;
+}
+
+img {
+	display:inline-block;
+}
+
+div {
+	margin-bottom:20px;
+	font-size:20px;
+}
+
+ul {
+	font-size:20px;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+li img {
+	vertical-align:bottom;
+	width:20px;
+	height:20px;
+}
+
+.container {
+	margin:10px 15%;
+}
+
+.retour {
+	font-size:20px;
+	margin-bottom:20px;
+	display:block;
+}
+
+.informations {
+	display:inline-block;
+	margin:0 20px 20px 20px;
+	vertical-align:top;
+	max-width:50%;
+}
+
+.mana_cost {
+	width:40px;
+	margin:0;
+}
+
+.set_name {
+	font-size:20px;
+	font-style:italic;
+}
+
+.price {
+	font-size:20px;
+}
+
+.legal {
+	color:green;
+}
+
+.not_legal {
+	color:red;
+}

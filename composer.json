@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.0",
+        "selective/basepath": "^0.2.0",
+        "slim/php-view": "^2.2",
+        "php-di/slim-bridge": "^3.0"
+    }
+}
